@@ -5,7 +5,7 @@ I'm a data scientist & M.Sc. student @Lab of Computational Cell Dynamics, BGU. I
 
 ### Find me @:
 <a href="https://www.linkedin.com/in/amit-shakarchy">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=87CEFA&logoColor=white" />
 </a>
 
 </a>
@@ -17,7 +17,7 @@ I'm a data scientist & M.Sc. student @Lab of Computational Cell Dynamics, BGU. I
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitshakarchy&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for amitshakarchy" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=amitshakarchy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula &layout=compact" alt="GitHub Stats for amitshakarchy" width="700">
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amitshakarchy&theme=jolly" width="700">
 -->
