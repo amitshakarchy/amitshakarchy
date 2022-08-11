@@ -10,7 +10,7 @@ I'm a data scientist & M.Sc. student @Lab of Computational Cell Dynamics, BGU. I
 
 </a>
 <a href="https://open.spotify.com/playlist/1jEZjzQU7ecLzfvuNMyyrn?si=3ed3819d52204396">
-    <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />
+    <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=87CEFA&logoColor=white" />
 </a>
 
 
