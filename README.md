@@ -1,5 +1,6 @@
-### Hi there 👋
+## 👋 Hey everyone
 
+I'm a data scientist & M.Sc. student @Lab of Computational Cell Dynamics, BGU. I like to talk about data, podcasts I’m listening to, professional development, and what I intend to cook next Friday ✨.
 <!--
 **amitshakarchy/amitshakarchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
