@@ -17,7 +17,7 @@ I'm a data scientist & M.Sc. student @Lab of Computational Cell Dynamics, BGU. I
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitshakarchy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula &layout=compact" alt="GitHub Stats for amitshakarchy" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=amitshakarchy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Stats for amitshakarchy" width="700">
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amitshakarchy&theme=jolly" width="700">
 -->
