@@ -1,11 +1,13 @@
-## 👋 Hey everyone, I'm a Data Scientist and a Software Developer ✨
+## 👋 Hey everyone, 
+
+### I'm a Data Scientist and a Software Developer.
 
 🌟 <b>M.Sc. in Software and Information Systems Engineering</b>, in a fast track for honors students🏆.
 <br>Specialization in <b>Machine Learning</b> and <b>Big Data Analysis</b>.
 
 🌟<b>B.Sc. in Software and Information Systems Engineering.</b>
 
-<br>🦾 I take pride in working hard and always look for creative ways to solve problems.
+<br>🏋️‍♀️ I take pride in working hard and always look for creative ways to solve problems.
 <br>📚 I am a data enthusiastic with a passion for learning and can adapt to new tasks and situations.
 <br>🌱I'm eager to explore new areas and can work effectively on my own or in a team. 
 
